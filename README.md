@@ -23,7 +23,7 @@ Este Challenge tiene como objetivo central aplicar la lógica de programación e
 
 
 ## :key: Acceso al Proyecto
-**Para acceder al proyecto, haz click en el siguiente enlace al repositorio público en GitHub:**
+Para acceder al proyecto, haz click en el siguiente enlace al repositorio público en GitHub: https://carolinag2024.github.io/p-challenge-amigo-secreto/ 
 
 
 ## :unlock: Abrir y Ejecutar
@@ -75,6 +75,7 @@ El proyecto tiene la siguiente organización:
 --
 
 :five: Cómo Usar la Aplicación
+Para acceder a la aplicación, haz click en el siguiente enlace: https://carolinag2024.github.io/p-challenge-amigo-secreto/ 
 
 - ✅ Agregar nombres: Escribir un nombre y hacer clic en "Añadir".
 
