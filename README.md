@@ -9,22 +9,88 @@
 :trophy: Proyecto Finalizado :trophy:
 </h4>
 
+
 ## :blue_book: Descripción del Proyecto
 Este Challenge tiene como objetivo central aplicar la lógica de programación en JavaScript, utilizando los conocimientos adquiridos durante la fase inicial del programa Oracle/Alura Latam en fundamentos de programación.
 
+
 ## :rotating_light: Funcionalidades del Proyecto
--`Funcionalidad 1`:Permite ingresar nombres de tus amigos y de forma aleatoria encontrar el número secreto
--`Funcionalidad 2`:Crea una lista a través de un boton Añadir
--`Funcionalidad 3`:Realiza validación de datos de entrada. No permite nombre vacio generando mensaje "Porfavor ingresar un nombre válido"
--`Funcionalidad 4`:Ejecuta a través de un boton Sortear amigo  
+- `Funcionalidad 1`:Permite ingresar nombres de tus amigos y de forma aleatoria encontrar el número secreto
+- `Funcionalidad 2`: Crea una lista a través de un boton Añadir
+- `Funcionalidad 3`: Realiza validación de datos de entrada. No permite nombre vacio generando mensaje "Porfavor ingresar un nombre válido"
+- `Funcionalidad 4`: Limpia el campo para ingresar nombres despues de cada acción Añadir 
+- `Funcionalidad 5`: Ejecuta el código JavaScript a través de un boton Sortear amigo  
+
 
 ## :key: Acceso al Proyecto
 **Para acceder al proyecto, haz click en el siguiente enlace al repositorio público en GitHub:**
 
+
 ## :unlock: Abrir y Ejecutar
-**En el siguiente video puedes consultar el paso a paso para la creación de lo código en JavaScript**
--`Paso 1`:Permite ingresar- 
--`Paso 1`:Permite ingresar- 
+
+![Front Amigo Secreto](https://github.com/user-attachments/assets/75f6e8a1-cc11-45a2-9c7f-a1488ea51ffb)
+
+:one: Requisitos previos
+
+Este proyecto es una aplicación web que solo requiere un navegador moderno, como:
+
+- ✅ Google Chrome
+- ✅ Mozilla Firefox
+- ✅ Microsoft Edge
+
+--
+
+:two: Clonar o Descargar el Proyecto
+
+Para obtener el código fuente:
+
+* Clonar el repositorio (recomendado)
+
+![Imagen Bash](https://github.com/user-attachments/assets/da6f7f8c-ccdb-4cac-97b1-bb450af65b38)
+
+* Descargar el código manualmente
+
+Ir al repositorio en GitHub.
+Hacer clic en "Code" → "Download ZIP".
+Extraer el archivo ZIP en tu computadora.
+
+--
+
+:three: Estructura del Proyecto
+
+El proyecto tiene la siguiente organización:
+
+![Estructura proyecto](https://github.com/user-attachments/assets/cb6b2c84-a834-48d3-bb3f-25438f6a9e49)
+
+--
+
+:four: Ejecutar la Aplicación
+
+- `Paso 1`: Abrir la carpeta del proyecto.
+
+- `Paso 2`: Hacer doble clic en index.html.
+
+- `Paso 3`: Se abrirá en el navegador automáticamente.
+
+--
+
+:five: Cómo Usar la Aplicación
+
+- ✅ Agregar nombres: Escribir un nombre y hacer clic en "Añadir".
+
+- ✅ Ver lista: Los nombres ingresados aparecerán en pantalla.
+
+- ✅ Sortear un amigo: Hacer clic en "Sortear amigo" para elegir uno al azar.
+
+- ✅ Reiniciar: Después del sorteo, la lista se vacía para un nuevo sorteo.
+
+--
+
+💡 Personalización:
+Para modificar estilos, edita style.css.
+Para cambiar la lógica, ajusta app.js.
+🚀 ¡Listo! Ahora puedes disfrutar de tu aplicación de Amigo Secreto 🎉
+
 
 ## :computer: Tecnología utilizada
 -`Funcionalidad`:JavaScript
@@ -33,9 +99,9 @@ Este Challenge tiene como objetivo central aplicar la lógica de programación e
 -`Tools`:Octocat, Canva, Repositorios GitHub, Shields.io
 
 ## :information_desk_person: Autores
-![octocat-1742248602823](https://github.com/user-attachments/assets/660be175-d307-4dfa-9bbd-03f8e75dc66b)
 |www.linkedin.com/in/gloria-carolina-guerrero-velandia|
 |:---:|
+![octocat-1742248602823](https://github.com/user-attachments/assets/660be175-d307-4dfa-9bbd-03f8e75dc66b)
 
 ## :information_desk_person: Licencias
-*Para mirar el código fuente, en markdown se hace click en la esquina superior derecha del README, en la opción Raw*
+![Badges-version-programa](https://img.shields.io/badge/Licencia_MIT-2025-violet)
