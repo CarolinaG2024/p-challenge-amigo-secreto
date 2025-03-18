@@ -93,10 +93,16 @@ Para cambiar la lógica, ajusta app.js.
 
 
 ## :computer: Tecnología utilizada
--`Funcionalidad`:JavaScript
--`Estructura`:HTML
--`Estilo`:CSS 
--`Tools`:Octocat, Canva, Repositorios GitHub, Shields.io
+- `Funcionalidad`: JavaScript
+![Imagen JS](https://github.com/user-attachments/assets/808d01b6-e4bb-456c-a2c9-a09c21457e33)
+
+- `Estructura`: HTML
+![Imagen html](https://github.com/user-attachments/assets/fc492bd3-2dd1-44e7-bea0-e4fc957e24b7)
+
+- `Estilo`: CSS
+![Imagen css](https://github.com/user-attachments/assets/94e1bd54-467f-4957-904d-b3fa05c2f7df)
+
+- `Tools`: Octocat, Canva, Repositorios GitHub, Shields.io
 
 ## :information_desk_person: Autores
 |www.linkedin.com/in/gloria-carolina-guerrero-velandia|
